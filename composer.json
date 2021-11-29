@@ -28,7 +28,7 @@
     },
     "replace": {
         "ubirak/healthcheck":"1.0.2"
-    }
+    },
     "require-dev": {
         "atoum/atoum": "^3.1"
     },
